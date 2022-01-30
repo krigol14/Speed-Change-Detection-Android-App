@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "220319646959",
+    "project_id": "proairetikh-1",
+    "storage_bucket": "proairetikh-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220319646959:android:8ecca39ece339a18c0c71a",
+        "android_client_info": {
+          "package_name": "com.example.proairetikh_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220319646959-f696qu4p7vhb68pthpsqeorcdveha2ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeYh9aD4FPci_CKBHg87IfI87ddD2smRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220319646959-f696qu4p7vhb68pthpsqeorcdveha2ur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
